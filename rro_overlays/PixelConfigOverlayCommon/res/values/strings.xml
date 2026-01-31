@@ -17,6 +17,6 @@
 */
 -->
 <resources>
-    <string name="android_start_title" translatable="false">Lunaris is starting…</string>
-    <string name="android_upgrading_title" translatable="false">Lunaris is updating…</string>
+    <string name="android_start_title" translatable="false">Optimus Crdroid is starting…</string>
+    <string name="android_upgrading_title" translatable="false">Optimus Crdroid is updating…</string>
 </resources>
